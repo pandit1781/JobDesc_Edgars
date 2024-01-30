@@ -21,6 +21,8 @@ c. Do skills align with job description and with lecture?
 
 - Yes
 
+- Agreed
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ## 2. Data Analyst @ Braintrust
@@ -37,4 +39,4 @@ b. Is it clear what is needed?
 
 c. Do skills align with job description and with lecture?
 
-- No
+- No, there is no information 
